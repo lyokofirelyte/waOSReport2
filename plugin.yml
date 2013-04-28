@@ -1,0 +1,7 @@
+name: waOSReport
+main: com.github.lyokofirelyte.waOSReport.waOSReport
+version: 1.0
+commands:
+   report:
+      description: Reports a player.
+      usage: /report [player] [reason]
